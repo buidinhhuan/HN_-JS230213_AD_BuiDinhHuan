@@ -1,0 +1,54 @@
+.App {
+  text-align: center;
+}
+
+  .container-taitol{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+ }
+ .control{
+
+ }
+ .taitol{
+  }
+ .ip-search{
+  display: flex;
+  position: relative;
+
+ }
+ .ip-search input{
+   width: 100%;
+  border-radius: 7px;
+  background-color: #e4e3e4;
+  border: none;
+  padding: 10px;
+ padding-left: 30px; 
+}
+ .icon-search{
+  position: absolute;
+  padding: 10px 5px;
+ 
+   }
+  .main{
+  margin-top: 20px;
+  background-color: #fbfcfb;
+ }
+ .textarea{
+  background-color: #c7d2d7;
+  position: relative;
+  border-radius: 10px;
+ }
+ .date-inp{
+  position: absolute;
+  text-align: center; 
+ right: 780px;
+ top: 255px;
+}
+.icon-delete{
+  position: absolute;
+   padding-right: 10px ;
+   top: 260px;
+   left: 800px;
+}
+
